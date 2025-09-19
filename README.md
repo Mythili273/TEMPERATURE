@@ -54,6 +54,4 @@ Build a GUI-based temperature converter.
 K.MYTHILI
 Beginner in Python, C, and C++ | Exploring AI & Software Projects 🚀
 
-Do you want me to also prepare the improved Python code (with both Celsius → Fahrenheit & Fahrenheit → Celsius options) so your GitHub project looks a bit more advanced?
 
-ChatGPT
